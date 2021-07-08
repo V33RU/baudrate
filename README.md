@@ -1,12 +1,8 @@
-# baudrate
+# baudrate modified little
 
-#sudo python3 baudrate.py -h
+By Craig Heffner, http://www.devttys0.com
 
-Baudrate v1.0
-Craig Heffner, http://www.devttys0.com
-
-Usage: baudrate.py [OPTIONS]
-
+`Usage: sudo python3 baudrate.py -h
 	-p <serial port>       Specify the serial port to use [/dev/ttyUSB0]
 	-t <seconds>           Set the timeout period used when switching baudrates in auto detect mode [5]
 	-c <num>               Set the minimum ASCII character threshold used during auto detect mode [25]
@@ -14,6 +10,6 @@ Usage: baudrate.py [OPTIONS]
 	-a                     Enable auto detect mode
 	-b                     Display supported baud rates and exit
 	-q                     Do not display data read from the serial port
-	-h                     Display help
+	-h                     Display help`
 
 forked from "https://github.com/devttys0/baudrate"
