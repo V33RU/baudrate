@@ -2,7 +2,7 @@
 
 By Craig Heffner, http://www.devttys0.com
 
-Usage: sudo python3 baudrate.py -h
+
 
 	#sudo python3 baudrate.py -h
 	-p <serial port>       Specify the serial port to use [/dev/ttyUSB0]
