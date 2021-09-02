@@ -1,4 +1,4 @@
-# baudrate modified little
+# baudrate values added more
 
 By Craig Heffner, http://www.devttys0.com
 
